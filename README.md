@@ -4,4 +4,4 @@
 3. w/ 2 simple columns, the above datasets have 33x larger memory footprint in mathematica than tidyverse tibbles
 
 # Conclusion
-Until mathematica's datasets are not redesigned to be columnar (so names don't repeat in associations) and that functions relevant to dataframes can take datasets directly, mathematica won't be used as a serious platform for datascience (the fact that it is not free doesn't exactly help it)
+Until mathematica's datasets are not redesigned to be columnar (so names don't repeat in associations) and that functions relevant to dataframes can take datasets directly, mathematica won't be used as a serious platform for scalable, expressive, data wrangling / science (the fact that it is not free doesn't exactly help it)
